@@ -34,7 +34,8 @@ markdown
 
 ## 📷 Preview
 
-![Uploading Screenshot 2025-08-04 174035.png…]()
+<img width="935" height="647" alt="Screenshot 2025-08-04 174035" src="https://github.com/user-attachments/assets/c34b52a5-d5de-4d03-b6c9-e2635b195119" />
+
 
 
 ## 📝 Short Description
