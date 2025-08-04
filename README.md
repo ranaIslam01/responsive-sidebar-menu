@@ -34,7 +34,8 @@ markdown
 
 ## 📷 Preview
 
-*(Add a screenshot here if available, e.g. image/preview.png)*
+![Uploading Screenshot 2025-08-04 174035.png…]()
+
 
 ## 📝 Short Description
 
